@@ -3,6 +3,8 @@
 
 <img src="https://github.com/tridib2003/tridib2003/blob/main/zzz.png" /><br>
 
+[![HitCount](http://hits.dwyl.com/tridib2003/tridib2003.svg)](http://hits.dwyl.com/tridib2003/tridib2003)
+
 <!--
 ![Github stats](https://github-readme-stats.vercel.app/api?username=tridib2003)
 -->
