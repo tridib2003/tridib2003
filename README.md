@@ -1,13 +1,10 @@
-### Just 5 more minutes ! :zzz:
+### Just 5 more minutes please ! :zzz:
+
+<img src="https://github.com/tridib2003/tridib2003/blob/main/zzz.png" /><br>
 
 <!--
-<img src="https://raw.githubusercontent.com/subodhk01/subodhk01/master/404.jpg" /><br>
--->
-
-<img src="https://github.com/tridib2003/tridib2003/blob/main/123.png" /><br>
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=tridib2003)
-
+-->
 
 <!--
 **tridib2003/tridib2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
