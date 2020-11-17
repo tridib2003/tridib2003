@@ -1,7 +1,7 @@
 <img src="https://img.shields.io/badge/Hey-Visitor%20!-brightgreen" /> <img src="https://github.com/tridib2003/tridib2003/blob/main/Hi.gif" width="35px"><br>
 ### Just 5 more minutes please ! :zzz:
 
-<img src="https://github.com/tridib2003/tridib2003/blob/main/zzz.png" width="200"/><br>
+<img src="https://github.com/tridib2003/tridib2003/blob/main/zzz.png" width="500"/><br>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=tridib2003&show_icons=true&theme=dracula" alt="tridib2003">
 
