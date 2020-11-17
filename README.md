@@ -2,7 +2,7 @@
 ### Just 5 more minutes please ! :zzz:
 
 
-<img src=" https://giphy.com/embed/l3vRkpOS2J2s97zzy" width="480" height="360" frameBorder="0"/><br>
+<img src="https://giphy.com/embed/l3vRkpOS2J2s97zzy" width="480" height="360"><br>
 
 <img src="https://github.com/tridib2003/tridib2003/blob/main/zzz.png" /><br>
 
