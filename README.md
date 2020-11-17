@@ -1,10 +1,12 @@
-### Hey !! 👋
+### Just 5 more minutes ! 👋
 
 <!--
 <img src="https://raw.githubusercontent.com/subodhk01/subodhk01/master/404.jpg" /><br>
 -->
 
 <img src="https://github.com/tridib2003/tridib2003/blob/main/123.png" /><br>
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=tridib2003)
 
 
 <!--
