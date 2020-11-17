@@ -4,7 +4,10 @@
 <img src="https://github.com/tridib2003/tridib2003/blob/main/zzz.png" /><br>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=tridib2003&show_icons=true&theme=dracula" alt="tridib2003" /></br>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=tridib2003&show_icons=true&theme=dracula" alt="tridib2003">
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujata13&layout=compact" alt="sujata13" /></br>
+</br>
 
 [![HitCount](http://hits.dwyl.com/tridib2003/tridib2003.svg)](http://hits.dwyl.com/tridib2003/tridib2003)
 
