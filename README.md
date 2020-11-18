@@ -7,7 +7,6 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujata13&theme=dracula" alt="sujata13" />
 
-
 <!--
 <br><br>[![HitCount](http://hits.dwyl.com/tridib2003/tridib2003.svg)](http://hits.dwyl.com/tridib2003/tridib2003)
 
