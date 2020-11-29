@@ -15,9 +15,7 @@
 
 <br><br>
 
-[<img src="https://images.vexels.com/media/users/3/137382/isolated/preview/c59b2807ea44f0d70f41ca73c61d281d-linkedin-icon-logo-by-vexels.png">](https://www.linkedin.com/in/tridib-samanta98/)
-
-[![Foo](https://images.vexels.com/media/users/3/137382/isolated/preview/c59b2807ea44f0d70f41ca73c61d281d-linkedin-icon-logo-by-vexels.png)](https://www.linkedin.com/in/tridib-samanta98/)
+[<img src="https://images.vexels.com/media/users/3/137382/isolated/preview/c59b2807ea44f0d70f41ca73c61d281d-linkedin-icon-logo-by-vexels.png" width="50">](https://www.linkedin.com/in/tridib-samanta98/)
 
 <!--
 **tridib2003/tridib2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
