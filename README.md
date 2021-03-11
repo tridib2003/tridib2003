@@ -22,6 +22,7 @@
 
 <p align="center">
   :exploding_head: I'm a :cloud: computing fanboy.
+  
   :book: I'm currently reading [Make Elephants Fly](https://www.goodreads.com/book/show/34523667-make-elephants-fly).
 </p>
 
@@ -30,9 +31,8 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tridib2003&theme=dracula" alt="tridib2003" />
 
-
-<br><br>[![HitCount](http://hits.dwyl.com/tridib2003/tridib2003.svg)](http://hits.dwyl.com/tridib2003/tridib2003)
 <!--
+<br><br>[![HitCount](http://hits.dwyl.com/tridib2003/tridib2003.svg)](http://hits.dwyl.com/tridib2003/tridib2003)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=tridib2003)
 -->
 
