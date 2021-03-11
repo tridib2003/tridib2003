@@ -21,7 +21,7 @@
 <br><br>
 
 <p align="center">
-  :book: I'm currently reading [Make Elephants Fly](https://www.goodreads.com/book/show/34523667-make-elephants-fly).
+  :book: I'm currently reading [Make Elephants Fly](https://www.goodreads.com/book/show/34523667-make-elephants-fly)
 </p>
 
 <br><br>
