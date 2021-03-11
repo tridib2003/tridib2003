@@ -1,7 +1,19 @@
 <img src="https://img.shields.io/badge/Hey-Visitor%20!-brightgreen" /> <img src="https://github.com/tridib2003/tridib2003/blob/main/Hi.gif" width="35px"><br>
-### Just 5 more minutes please 🥺 !! :zzz:
 
-<img src="https://github.com/tridib2003/tridib2003/blob/main/zzz.png" width="500"/><br>
+
+<p align="center">
+#### In case of fire :fire: :cold_sweat:
+
+##### :outbox_tray: git commit
+
+##### :heavy_check_mark: git push 
+
+##### :runner: leave building 
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/tridib2003/tridib2003/main/img.png" width="350"/><br>
+</p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=tridib2003&show_icons=true&theme=dracula" alt="tridib2003">
 
@@ -18,8 +30,11 @@
 <!--
 **tridib2003/tridib2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<!--
 Here are some ideas to get you started:
+-->
 
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -27,5 +42,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- :exploding_head: I'm a :cloud: computing fanboy.
+- :book: I'm currently reading [Make Elephants Fly](https://www.goodreads.com/book/show/34523667-make-elephants-fly).
