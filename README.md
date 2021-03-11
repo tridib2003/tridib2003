@@ -21,8 +21,6 @@
 <br><br>
 
 <p align="center">
-  :exploding_head: I'm a :cloud: computing fanboy.
-  
   :book: I'm currently reading [Make Elephants Fly](https://www.goodreads.com/book/show/34523667-make-elephants-fly).
 </p>
 
