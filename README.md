@@ -24,6 +24,7 @@
   :book: I'm currently reading [Make Elephants Fly](https://www.goodreads.com/book/show/34523667-make-elephants-fly).
 </p>
 
+<br><br>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=tridib2003&show_icons=true&theme=dracula" alt="tridib2003">
 
