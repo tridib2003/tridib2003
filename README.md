@@ -1,19 +1,25 @@
-<img src="https://img.shields.io/badge/Hey-Visitor%20!-brightgreen" /> <img src="https://github.com/tridib2003/tridib2003/blob/main/Hi.gif" width="35px"><br>
-
-
 <p align="center">
-#### In case of fire :fire: :cold_sweat:
-
-##### :outbox_tray: git commit
-
-##### :heavy_check_mark: git push 
-
-##### :runner: leave building 
+<img src="https://img.shields.io/badge/Hey-Visitor%20!-brightgreen" /> <img src="https://github.com/tridib2003/tridib2003/blob/main/Hi.gif" width="35px"><br>
 </p>
+
+<br><br>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/tridib2003/tridib2003/main/img.png" width="350"/><br>
 </p>
+
+<br><br>
+
+### In case of fire :fire: :cold_sweat:
+
+#### :outbox_tray: git commit
+
+#### :heavy_check_mark: git push 
+
+#### :runner: leave building 
+
+<br><br>
+
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=tridib2003&show_icons=true&theme=dracula" alt="tridib2003">
 
@@ -43,6 +49,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
+
+<br><br>
 
 - :exploding_head: I'm a :cloud: computing fanboy.
 - :book: I'm currently reading [Make Elephants Fly](https://www.goodreads.com/book/show/34523667-make-elephants-fly).
