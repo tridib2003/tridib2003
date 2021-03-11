@@ -21,7 +21,7 @@
 <br><br>
 
 <p align="center">
-  :book: I'm currently reading [Make Elephants Fly](https://www.foundersspace.com/make-elephants-fly/)
+  :book: I'm currently reading ![Make Elephants Fly](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505316326l/34523667._SY475_.jpg)
 </p>
 
 <br><br>
