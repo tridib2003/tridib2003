@@ -11,24 +11,28 @@
 <br><br>
 
 ### In case of fire :fire: :cold_sweat:
-```
+
 #### :outbox_tray: git commit
 
 #### :heavy_check_mark: git push 
 
 #### :runner: leave building 
-```
 
 <br><br>
+
+<p align="center">
+  :exploding_head: I'm a :cloud: computing fanboy.
+  :book: I'm currently reading [Make Elephants Fly](https://www.goodreads.com/book/show/34523667-make-elephants-fly).
+</p>
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=tridib2003&show_icons=true&theme=dracula" alt="tridib2003">
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tridib2003&theme=dracula" alt="tridib2003" />
 
-<!--
-<br><br>[![HitCount](http://hits.dwyl.com/tridib2003/tridib2003.svg)](http://hits.dwyl.com/tridib2003/tridib2003)
 
+<br><br>[![HitCount](http://hits.dwyl.com/tridib2003/tridib2003.svg)](http://hits.dwyl.com/tridib2003/tridib2003)
+<!--
 ![Github stats](https://github-readme-stats.vercel.app/api?username=tridib2003)
 -->
 
@@ -52,8 +56,3 @@ Here are some ideas to get you started:
 -->
 
 <br><br>
-<p align="center"></p>
-
-
-- :exploding_head: I'm a :cloud: computing fanboy.
-- :book: I'm currently reading [Make Elephants Fly](https://www.goodreads.com/book/show/34523667-make-elephants-fly).
