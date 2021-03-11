@@ -11,12 +11,13 @@
 <br><br>
 
 ### In case of fire :fire: :cold_sweat:
-
+```
 #### :outbox_tray: git commit
 
 #### :heavy_check_mark: git push 
 
 #### :runner: leave building 
+```
 
 <br><br>
 
@@ -51,6 +52,8 @@ Here are some ideas to get you started:
 -->
 
 <br><br>
+<p align="center"></p>
+
 
 - :exploding_head: I'm a :cloud: computing fanboy.
 - :book: I'm currently reading [Make Elephants Fly](https://www.goodreads.com/book/show/34523667-make-elephants-fly).
